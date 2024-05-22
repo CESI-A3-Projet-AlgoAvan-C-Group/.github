@@ -1,4 +1,4 @@
-! [Banner](https://github.com/CESI-A3-Projet-AlgoAvan-C-Group/.github/tree/main/images/optifind_banner.png)
+![Banner](https://github.com/CESI-A3-Projet-AlgoAvan-C-Group/.github/tree/main/images/optifind_banner.png)
 
 # Opti'Find
 
